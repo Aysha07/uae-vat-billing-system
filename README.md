@@ -17,7 +17,8 @@ A Python command-line billing application designed for small retail stores and c
    ```bash
    python billing_system.py
    ```
-#sample output
+## Sample output
+'''
 ========================================
          DUBAI RETAIL & CAFE            
        TRN: 100234567800003 (UAE)       
@@ -29,5 +30,6 @@ Karak Chai (x2) : 10.00 AED
 Subtotal       : 10.00 AED
 Discount (10%) : -0.00 AED
 UAE VAT (5%)   : +0.50 AED
+'''
 GRAND TOTAL    : 10.50 AED
 ========================================
